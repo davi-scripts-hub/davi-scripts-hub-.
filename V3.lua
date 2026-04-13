@@ -23,4 +23,4 @@ CUSTOM_UI_MODE_DATA = {
 
 _G.MY_KEY_IS = "DaviScriptshub_4c838c52-49b8-e5f3-69dd-542aacb21f85"
 
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/davi-scripts-hub/davi-scripts-hub-./refs/heads/main/V3.lua"))()
