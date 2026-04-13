@@ -1,0 +1,26 @@
+IS_CUSTOM_UI_MODE = true
+CUSTOM_UI_MODE_DATA = {
+    Name = "Davi",
+    Theme = "Darkblue",
+    Logo = "rbxassetid://96012102609548",
+    Background = "rbxassetid://98096100327291",
+    YouTube = "Davi Scripts",
+    Discord = "rCZ7uBsNFS",
+    WelcomeMessage = {
+        "Davi Scripts HUB",
+        "BY Davi Scripts"
+    },
+    TrailIcon = "💙",
+    ToggleIcon = "rbxassetid://88870369034630",
+    CommunityIcon = "rbxassetid://129698128709234",
+    Contributers = {
+        "Davi Scripts | hashishx"
+    },
+    IntroText = "Acredite em si mesmo e você será imparável.",
+    GetKeyLink = "https://direct-link.net/5038977/TB6E9fp0O6qx",
+    TutorialLink = "https://hehehub-acsu123.pythonanywhere.com/api/getkey?hwid=TUTORIAL",
+}
+
+_G.MY_KEY_IS = "DaviScriptshub_4c838c52-49b8-e5f3-69dd-542aacb21f85"
+
+loadstring(game:HttpGet(""))()
